@@ -1,6 +1,6 @@
 # Portfolio
 
-This is a personal portfolio project developed by [Vivek Sheta](https://github.com/vivek-sheta). It showcases Vivek's skills, projects, and experiences.
+This is a personal portfolio project.
 
 ## Usage
 
